@@ -1,0 +1,10 @@
+{ "photos": [ 
+{ "id": 1,
+ "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoiA_9R10RtZa80IP7vcWmUs67CkF9L4Np5g&usqp=CAU" },
+ { "id": 2,
+ "title": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkPRrP1RZC14KQ5RKhkV1HGEXJbOav-9Eebw&usqp=CAU" },
+ { "id": 3,
+ "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64kOlfEK9erH63w3StGIc26vuzDFNPJBbcQ&usqp=CAU" }, 
+{ "id": 4, "imgUrl": "https://www.apkmod.co/wp-content/uploads/2020/03/Digikala.png" } 
+], 
+}
