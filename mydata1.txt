@@ -1,4 +1,0 @@
-{
-  "id": 1,
-  "title": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkPRrP1RZC14KQ5RKhkV1HGEXJbOav-9Eebw&usqp=CAU"
-}
